@@ -219,7 +219,7 @@
 
 <script>
 const project = "https://github.com/CareyWang/sub-web";
-const remoteConfigSample =
+const remoteConfigSample = "http://sub.haryhh.cf";
   "https://raw.githubusercontent.com/tindy2013/subconverter/master/base/config/example_external_config.ini";
 const gayhubRelease = "https://github.com/tindy2013/subconverter/releases";
 const defaultBackend = "https://api.wcc.best/sub?";
